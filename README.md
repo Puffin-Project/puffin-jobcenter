@@ -11,7 +11,7 @@ Browse, select, and start jobs — or simply mark the location without changing 
 
 ---
 ## 🎬 Preview
-[Watch on YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
+[Watch on YouTube](https://youtu.be/JXgVoQ5djaQ)
 
 ![UI](https://i.postimg.cc/L8kFXLwJ/thumbnail-jobcenter.jpg)
 ---
